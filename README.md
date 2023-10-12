@@ -1,6 +1,6 @@
-## Java Further Classes Assignment
+## Java Even More Classes Assignment
 
-Welcome to the Java Further Classes Assignment! In this assignment we are continuing to practice with classes in Java. You are required to complete the methods in each class. You will find TODO comments in each method, which provide instructions on what needs to be implemented.
+Welcome to the Java Even More Classes Assignment! In this assignment we are continuing to practice with classes in Java. You are required to complete the methods in each class. You will find TODO comments in each method, which provide instructions on what needs to be implemented.
 
 ### Instructions
 
